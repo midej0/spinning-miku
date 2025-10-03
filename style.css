@@ -1,0 +1,19 @@
+/*CSS Reset*/
+img{
+    display: block;
+}
+
+body{
+    margin: 0;
+}
+
+#miku {
+    margin-left: auto;
+    margin-right: auto;
+    user-select: none;
+}
+
+body{
+    background-color: aqua;
+    font-family: Arial, sans-serif;
+}
